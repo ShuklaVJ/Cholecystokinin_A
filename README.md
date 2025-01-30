@@ -10,3 +10,4 @@ Bile Release: CCK stimulates the gallbladder to contract and release bile, which
 Intestinal Enzyme Release: CCK can also trigger the release of some small intestinal enzymes.
 Enzyme Biosynthesis: CCK stimulates the pancreas to produce more digestive enzymes.
 In summary: CCK is a key player in digestion, particularly in regulating pancreatic enzyme secretion. It ensures that the necessary enzymes are released to break down food in the small intestine."# cckA" 
+"# cckA" 
